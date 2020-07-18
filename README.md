@@ -17,3 +17,7 @@ My main goal is to learn to make detailed diagrams [like these](https://diagrams
 ![pie chart](/pics/piechart-small.png)
 <br><b>Hollow pie chart – customizable colors, percentages, labels, and center text</b>
 <br>2020.07.11: Finished.
+
+![multi-pie chart](/pics/multi-pie.png)
+<br><b>Multiple partial pie charts – customizable colors, percentages, labels, and center text</b>
+<br>2020.07.17: Finished.  [e.g. percentage of days that you do a specific task]
