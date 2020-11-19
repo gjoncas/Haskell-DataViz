@@ -25,3 +25,7 @@ My main goal is to learn to make detailed diagrams [like these](https://diagrams
 ![waffle chart](/pics/waffle.png)
 <br><b>Waffle chart – customizable colors, percentages, labels, and shapes</b>
 <br>2020.09.21: Finished.  [nice when percentages are integers]
+
+![coxcomb chart](/pics/nightingale.png)
+<br><b>Nightingale chart – customizable colors, percentages, and labels</b>
+<br>2020.11.18: Finished. [e.g. <a href="https://www.maharam.com/stories/sherlock_florence-nightingales-rose-diagram">mortality rates</a> from various causes]
